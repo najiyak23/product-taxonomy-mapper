@@ -164,3 +164,4 @@ The hybrid approach achieved **100% coverage**:
 - **`README.md`** – Project documentation
 - **`requirements.txt`** – Python dependencies
 - **`LICENSE`** – MIT License
+---
